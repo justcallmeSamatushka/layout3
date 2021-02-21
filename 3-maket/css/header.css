@@ -1,0 +1,57 @@
+.content_header {
+  margin: 13px 0 20px 35px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header_text h1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 43.3726px;
+  line-height: 53px;
+
+  /* text-primary */
+
+  color: #404040;
+}
+
+.header_text p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16.0564px;
+  line-height: 20px;
+  /* identical to box height */
+
+  color: #aeaeae;
+}
+
+.header_account {
+  display: flex;
+  margin-right: 40px;
+}
+
+.account_notif {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-right: 26px;
+}
+
+.account_block {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.account_img {
+  background: rgba(255, 193, 69, 1);
+  border-radius: 50%;
+}
+
+.account_name h3 {
+  color: rgba(64, 64, 64, 1);
+}
+
+.account_name p {
+  color: rgba(174, 174, 174, 1);
+}
